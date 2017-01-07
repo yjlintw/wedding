@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yjlintw.github.io/wedding
+url: http://yjlintw.github.io/wedding/
+baseurl: /wedding/
 title: 育正和小手的婚禮
 email: handslai@gmail.com
 author: 
