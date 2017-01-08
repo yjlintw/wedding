@@ -51,6 +51,12 @@ h6 {
 .intro-message > h3 {
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
 }
+.title-icon {
+    height: 1em;
+    margin: 0 0.2em;
+    vertical-align: middle;
+    display: inline-block;
+}
 @media(max-width:767px) {
     .intro-message {
         padding-bottom: 15%;
