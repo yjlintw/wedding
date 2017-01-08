@@ -146,3 +146,23 @@ p.copyright {
 .time-entry-b {
     font-size: 16px;
 }
+
+.img-center {
+    display: block;
+    margin: 0 auto;
+}
+
+.map-container {
+    width: 100%;
+}
+
+.map-container iframe {
+    width: 100%;
+    display: block;
+    pointer-events: none;
+    position: relative;
+}
+
+.map-container iframe.clicked {
+    pointer-events: auto;
+}
