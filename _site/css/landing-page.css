@@ -173,3 +173,15 @@ p.copyright {
 .map-container iframe.clicked {
     pointer-events: auto;
 }
+
+.cal-event {
+    border: 1px #bbb solid;
+    padding: 0.15em 0.5em;
+    margin: 0 0.2em;
+}
+
+.cal-event:hover {
+    text-decoration: none;
+    background-color: #2a6496;
+    color: #eee;
+}
