@@ -36,6 +36,10 @@ h6 {
     padding: 0.6em 0;
 }
 
+.nav-down {
+    font-size: 50px;
+    color: white;
+}
 .navbar-brand .title1 {
     height: 1.5em;
     vertical-align: middle;
